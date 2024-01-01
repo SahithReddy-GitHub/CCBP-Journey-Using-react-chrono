@@ -1,0 +1,32 @@
+* {
+  font-family: 'roboto';
+  padding: 0px;
+  margin: 0px;
+}
+.con {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7O8vaOw4Rf5gtQcejizIlaQvgQKVzf4ENqJIq7_TLRBBrO6WYFiD1RbFk8SEyQDcF__Y&usqp=CAU');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bg-custom {
+  border-radius: 20px;
+  margin: 50px;
+  max-width: 1000px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  background-color: #ffffff;
+}
+.main-head {
+  font-size: 18px;
+  color: #1e293b;
+  line-height: 6;
+  text-decoration: underline;
+}
+
+.chrono-card {
+  width: 100%;
+}

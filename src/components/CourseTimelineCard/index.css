@@ -1,0 +1,42 @@
+.course-card {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.main-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  line-height: 2;
+}
+.cou-head {
+  font-size: 18px;
+  color: #1e293b;
+}
+.duration-card {
+  display: flex;
+  align-items: center;
+}
+.duration-para {
+  font-size: 13px;
+  margin-left: 5px;
+  font-weight: 600;
+}
+.cou-para {
+  font-size: 14px;
+  color: #1e293b;
+  margin-bottom: 5px;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.list-item {
+  background-color: #dadada;
+  padding: 2px 5px 2px 5px;
+  margin: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 3px;
+}
